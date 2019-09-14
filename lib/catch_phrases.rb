@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  
+  gone = "It's Dangerous To Go Alone! Take This."
+  puts gone
+end
