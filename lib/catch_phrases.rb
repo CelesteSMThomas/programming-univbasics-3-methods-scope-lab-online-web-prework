@@ -12,3 +12,8 @@ def link
   gone = "It's Dangerous To Go Alone! Take This."
   puts gone
 end
+
+def any_phase
+  phrase = "Do A Barrel Roll!"
+  puts phrase
+end
